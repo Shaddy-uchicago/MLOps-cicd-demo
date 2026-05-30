@@ -1,5 +1,5 @@
-pandaZ
-scikit-learnz
+panda
+scikit-learn
 joblib
 fastapi
 uvicorn
